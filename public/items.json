@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "name": "Golden Leaf Necklace",
+    "price": 89.99,
+    "category": "Necklace",
+    "description": "Elegant 18K gold-plated leaf pendant necklace with delicate chain. Perfect for both casual and formal occasions.",
+    "fullDescription": "This exquisite Golden Leaf Necklace features a beautifully crafted leaf pendant made from 18K gold-plated sterling silver. The intricate detailing captures the natural beauty of autumn leaves, while the delicate chain ensures comfortable wear. Each piece is handcrafted by skilled artisans and comes with a certificate of authenticity.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&h=800&fit=crop",
+    "featured": true,
+    "materials": ["18K Gold Plated", "Sterling Silver"],
+    "dimensions": "Pendant: 2cm x 1.5cm, Chain: 45cm"
+  },
+  {
+    "id": 2,
+    "name": "Rose Gold Diamond Ring",
+    "price": 129.00,
+    "category": "Ring",
+    "description": "Minimalist rose gold band with brilliant diamond inlay. Timeless elegance for the modern woman.",
+    "fullDescription": "A stunning example of contemporary jewelry design, this Rose Gold Diamond Ring features a minimalist band crafted from premium rose gold. The centerpiece is a brilliant-cut diamond that catches light from every angle, creating a mesmerizing sparkle. Perfect for engagements, anniversaries, or as a treat for yourself.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&h=800&fit=crop",
+    "featured": true,
+    "materials": ["Rose Gold", "Diamond"],
+    "dimensions": "Band width: 2mm, Diamond: 0.5 carat"
+  },
+  {
+    "id": 3,
+    "name": "Pearl Drop Earrings",
+    "price": 75.50,
+    "category": "Earrings",
+    "description": "Classic pearl drop earrings with gold accents. Sophisticated and versatile for any occasion.",
+    "fullDescription": "These timeless Pearl Drop Earrings feature lustrous freshwater pearls suspended from elegant gold hooks. The pearls have been carefully selected for their exceptional quality and uniform shape. These earrings add a touch of classic sophistication to any outfit, from business attire to evening wear.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["Freshwater Pearls", "14K Gold"],
+    "dimensions": "Total length: 3cm, Pearl diameter: 8mm"
+  },
+  {
+    "id": 4,
+    "name": "Celestial Moon Bracelet",
+    "price": 95.00,
+    "category": "Bracelet",
+    "description": "Delicate chain bracelet featuring crescent moon and star charms in silver and gold.",
+    "fullDescription": "Embrace the magic of the night sky with this enchanting Celestial Moon Bracelet. Featuring alternating crescent moon and star charms in mixed metals, this piece captures the mystique of celestial bodies. The adjustable chain ensures a perfect fit, while the mixed metal design adds versatility to your jewelry collection.",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&h=800&fit=crop",
+    "featured": true,
+    "materials": ["Sterling Silver", "Gold Plated"],
+    "dimensions": "Chain length: 16-19cm adjustable, Charms: 1cm each"
+  },
+  {
+    "id": 5,
+    "name": "Vintage Sapphire Ring",
+    "price": 245.00,
+    "category": "Ring",
+    "description": "Art deco inspired ring with deep blue sapphire and diamond accents in white gold.",
+    "fullDescription": "This magnificent Vintage Sapphire Ring draws inspiration from the glamorous Art Deco era. The centerpiece is a stunning deep blue sapphire surrounded by sparkling diamond accents, all set in lustrous white gold. The geometric design elements and milgrain detailing showcase the craftsmanship of bygone days.",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["White Gold", "Sapphire", "Diamonds"],
+    "dimensions": "Ring face: 12mm x 10mm, Sapphire: 1.2 carats"
+  },
+  {
+    "id": 6,
+    "name": "Infinity Love Necklace",
+    "price": 68.00,
+    "category": "Necklace",
+    "description": "Symbol of eternal love with infinity pendant in rose gold finish.",
+    "fullDescription": "Express your infinite love with this beautiful Infinity Love Necklace. The graceful infinity symbol represents endless possibilities and eternal bonds. Crafted with a luxurious rose gold finish, this piece makes a perfect gift for someone special or a meaningful addition to your own collection.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["Rose Gold Plated", "Sterling Silver"],
+    "dimensions": "Pendant: 2.5cm x 1cm, Chain: 42cm"
+  },
+  {
+    "id": 7,
+    "name": "Emerald Stud Earrings",
+    "price": 155.00,
+    "category": "Earrings",
+    "description": "Brilliant emerald studs in classic gold setting. Perfect for adding a pop of color.",
+    "fullDescription": "These exquisite Emerald Stud Earrings feature genuine emeralds set in classic gold mountings. The vibrant green stones are carefully selected for their rich color and clarity. These versatile studs can elevate any look, from casual daywear to elegant evening attire.",
+    "image": "https://images.unsplash.com/photo-1506144142137-330add657fb4?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["14K Gold", "Natural Emerald"],
+    "dimensions": "Emerald: 5mm diameter each"
+  },
+  {
+    "id": 8,
+    "name": "Charm Bracelet Collection",
+    "price": 120.00,
+    "category": "Bracelet",
+    "description": "Customizable charm bracelet with interchangeable pendants and charms.",
+    "fullDescription": "Create your own story with this versatile Charm Bracelet Collection. The base bracelet features a sturdy yet elegant chain that can accommodate multiple charms. Comes with five starter charms including a heart, star, key, flower, and initial charm. Additional charms sold separately.",
+    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&h=800&fit=crop",
+    "featured": true,
+    "materials": ["Sterling Silver", "Mixed Metals"],
+    "dimensions": "Bracelet: 17-20cm adjustable, Charms: 8-12mm each"
+  },
+  {
+    "id": 9,
+    "name": "Diamond Tennis Necklace",
+    "price": 340.00,
+    "category": "Necklace",
+    "description": "Luxurious tennis necklace with continuous line of sparkling diamonds.",
+    "fullDescription": "Make a statement with this breathtaking Diamond Tennis Necklace. Featuring a continuous line of perfectly matched diamonds in secure prong settings, this piece embodies luxury and sophistication. The graduated design ensures comfortable wear while maximizing sparkle and brilliance.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["18K White Gold", "Diamonds"],
+    "dimensions": "Length: 40cm, Total carat weight: 2.5ct"
+  },
+  {
+    "id": 10,
+    "name": "Bohemian Feather Earrings",
+    "price": 45.00,
+    "category": "Earrings",
+    "description": "Free-spirited feather earrings with turquoise accents and silver details.",
+    "fullDescription": "Embrace your bohemian spirit with these stunning Feather Earrings. Each piece features intricately detailed feather designs accented with genuine turquoise stones. The oxidized silver finish gives these earrings a vintage, artisanal look that pairs beautifully with both casual and festival wear.",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=800&h=800&fit=crop",
+    "featured": false,
+    "materials": ["Oxidized Silver", "Turquoise"],
+    "dimensions": "Total length: 6cm, Feather width: 1.5cm"
+  }
+]
