@@ -110,15 +110,7 @@ const Contact = () => {
               </div>
 
               {/* Map placeholder */}
-              <div className="mt-12">
-                <div className="bg-gray-200 rounded-2xl h-64 flex items-center justify-center">
-                  <div className="text-center">
-                    <MapPin className="mx-auto text-gray-400 mb-2" size={32} />
-                    <p className="text-gray-500">Interactive Map</p>
-                    <p className="text-sm text-gray-400">Visit us at our boutique location</p>
-                  </div>
-                </div>
-              </div>
+              
             </div>
 
             {/* Contact Form */}
